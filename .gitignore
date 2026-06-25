@@ -1,0 +1,7 @@
+**/__pycache__/
+**/.venv
+train/synth-data
+output
+
+*.pt
+server/*.png
